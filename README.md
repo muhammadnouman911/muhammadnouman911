@@ -3,11 +3,11 @@
 
 # Welcome to My Tech Universe! 🌐🚀
 
-I'm **Muhammad Nouman**, a **Software Engineering student** with a burning passion for **innovative tech solutions**. I’m all about pushing boundaries, exploring the world of **AI**, **Machine Learning**, and **Software Development**, and turning ideas into reality.
+I'm Muhammad Nouman, a Software Engineering student with a burning passion for innovative tech solutions. I’m all about pushing boundaries, exploring the world of technology, and turning ideas into reality.
 
 ✨ Always learning, creating, and building the future with cutting-edge technologies.
 
-🌱 Deeply invested in **Research & Publication** to contribute to meaningful change.
+🌱 Deeply invested in Research & Publication to contribute to meaningful change.
 
 ## Let’s Build Something Incredible Together:
 - 📧 [muhammadnouman22@gmail.com](mailto:muhammadnouman22@gmail.com)
