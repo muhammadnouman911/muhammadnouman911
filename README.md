@@ -16,4 +16,4 @@ I'm Muhammad Nouman, a Software Engineering student with a burning passion for i
 Thanks for visiting! Explore my work and let's collaborate on exciting projects! 😄
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainab-10" alt="zainab-10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnouman911" alt="muhammadnouman911" /> </p>
