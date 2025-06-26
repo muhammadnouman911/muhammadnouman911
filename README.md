@@ -1,6 +1,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadnouman911" alt="muhammadnouman911" /> </p>
-
-
 ---
 
 # Welcome to My Tech Universe! 🌐🚀
